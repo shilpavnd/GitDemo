@@ -9,6 +9,10 @@ public class RESTAPITest {
 	public void postJira()
 	{
 		System.out.println("postJira");
+		System.out.println("changed");
+		System.out.println("changed");
+		System.out.println("nativeAppAndroid");
+		
 	}
 	
 	@Test
