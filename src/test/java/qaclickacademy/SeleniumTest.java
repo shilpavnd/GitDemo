@@ -24,6 +24,12 @@ public class SeleniumTest {
 		System.out.println("elementsUI2332");
 		
 	}
+	@Test
+	public void elementsUI11()
+	{
+		System.out.println("elementsUI90");
+		
+	}
 	
 
 }
